@@ -1,0 +1,28 @@
+{
+  "nativeApps": [
+    {
+      "name": "HelloWorld_IOS_1",
+      "platforms": [
+        {
+          "name": "ios",
+          "versions": [
+            {
+              "name": "0.0.1",
+              "isReleased": false,
+              "binary": null,
+              "yarnLocks": {},
+              "nativeDeps": [],
+              "container": {
+                "miniApps": [],
+                "nativeDeps": [],
+                "jsApiImpls": []
+              },
+              "codePush": {}
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "schemaVersion": "1.0.0"
+}
