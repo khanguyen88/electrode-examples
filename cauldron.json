@@ -10,16 +10,28 @@
               "name": "0.0.1",
               "isReleased": false,
               "binary": null,
-              "yarnLocks": {},
+              "yarnLocks": {
+                "container": "e95e903873c655b1955b9e8ba3e362e809024c22"
+              },
               "nativeDeps": [],
               "container": {
-                "miniApps": [],
-                "nativeDeps": [],
+                "miniApps": [
+                  "file:/Users/khanguyen/git/coderschool/electrode-examples/first/HelloWorldMiniApp"
+                ],
+                "nativeDeps": [
+                  "react-native@0.54.0"
+                ],
                 "jsApiImpls": []
               },
-              "codePush": {}
+              "codePush": {},
+              "containerVersion": "1.0.0"
             }
-          ]
+          ],
+          "config": {
+            "containerGenerator": {
+              "containerVersion": "1.0.0"
+            }
+          }
         }
       ]
     }
