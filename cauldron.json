@@ -11,7 +11,7 @@
               "isReleased": false,
               "binary": null,
               "yarnLocks": {
-                "container": "87c0358283fe4cf2f3416c0afa30193045c99c54"
+                "container": "a516f9c8c151fd66c6412ef08b5e434b1f2771ba"
               },
               "nativeDeps": [],
               "container": {
@@ -26,12 +26,12 @@
                 "jsApiImpls": []
               },
               "codePush": {},
-              "containerVersion": "1.0.3"
+              "containerVersion": "1.0.4"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.3"
+              "containerVersion": "1.0.4"
             }
           }
         }
