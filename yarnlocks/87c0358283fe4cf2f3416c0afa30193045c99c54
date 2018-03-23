@@ -1380,7 +1380,7 @@ code-point-at@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
 
-"coderschool-hello-world-miniapp@file:/var/folders/jm/nx5k9yq51cldn1fbvqxk0ry80000gn/T/tmp-82408uSSL7MkTC4iL":
+"coderschool-hello-world-miniapp@file:/var/folders/jm/nx5k9yq51cldn1fbvqxk0ry80000gn/T/tmp-84229qz8qAJkawFnp":
   version "0.0.1"
   dependencies:
     react "16.3.0-alpha.2"

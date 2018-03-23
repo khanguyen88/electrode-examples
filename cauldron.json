@@ -11,7 +11,7 @@
               "isReleased": false,
               "binary": null,
               "yarnLocks": {
-                "container": "38e546b619b00142d36c3f4d3bed939fb75a3ff0"
+                "container": "87c0358283fe4cf2f3416c0afa30193045c99c54"
               },
               "nativeDeps": [],
               "container": {
@@ -20,17 +20,18 @@
                 ],
                 "nativeDeps": [
                   "react-native@0.54.0",
-                  "react-native-ernnavigation-api@0.0.4"
+                  "react-native-ernnavigation-api@0.0.4",
+                  "react-native-electrode-bridge@1.5.10"
                 ],
                 "jsApiImpls": []
               },
               "codePush": {},
-              "containerVersion": "1.0.2"
+              "containerVersion": "1.0.3"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.2"
+              "containerVersion": "1.0.3"
             }
           }
         }
